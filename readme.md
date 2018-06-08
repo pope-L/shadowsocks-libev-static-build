@@ -1,0 +1,1 @@
+静态编译 shadowsocks-libev 的脚本，请在 root 下运行脚本。
